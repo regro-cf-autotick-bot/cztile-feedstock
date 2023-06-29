@@ -1,11 +1,11 @@
-About cztile
-============
+About cztile-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cztile-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/cztile/
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cztile-feedstock/blob/main/LICENSE.txt)
 
 Summary: A set of tiling utilities
 
